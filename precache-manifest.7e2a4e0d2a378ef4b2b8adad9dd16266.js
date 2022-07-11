@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4515c2aa191f25353f24",
-    "url": "/business-card/static/css/main.5c6831cc.chunk.css"
+    "revision": "7915496ae4bb9f33ce53",
+    "url": "/business-card/static/css/main.afb42c5a.chunk.css"
   },
   {
-    "revision": "4515c2aa191f25353f24",
-    "url": "/business-card/static/js/main.4515c2aa.chunk.js"
+    "revision": "7915496ae4bb9f33ce53",
+    "url": "/business-card/static/js/main.7915496a.chunk.js"
   },
   {
     "revision": "03ae7ea834bbe7645a20",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/business-card/static/media/pic.9cd8c58e.jpg"
   },
   {
-    "revision": "ef1f3fd2719a2336f1c85664b189b11b",
+    "revision": "23ee1e99cb5cb222ca2dc8aaae5a6246",
     "url": "/business-card/index.html"
   }
 ];
