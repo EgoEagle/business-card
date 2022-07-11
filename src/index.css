@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:rgb(55, 55, 59);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.info{
+  border-radius: 10px;
+  width: 400px;
+  height: 850px;
+  background-color:rgb(26, 26, 27);
+  line-height: 120%;
+  margin :auto;
+  padding : 20px;
+  text-align: center;
+
+}
+
+.info > .name , .info > .title  {
+
+  color:white;
+  font-size : 25px;
+
+}
+
+.pic {
+  border-radius: 10px;
+  width : 280px;
+  height : 350px;
+
+}
+
+.linkedin , .gitlink{
+  color:white;
+  background-color: rgb(141, 134, 243);
+  border-radius: 4px;
+  padding: 10px;
+  width: 150px;
+  height: 40px;
+  border:none;
+  
+}
+
+.linkedin{
+margin-left:50px;
+
+}
+
+.gitlink{
+  background-color: rgb(133, 197, 30);
+
+}
+
+.about , .interest{
+color:white;
+
+}
+
+.text{
+  margin : 10px;
+  padding : 5px;
+  border: 2px solid rgb(76, 76, 77);
+
+
+}
+
+
+
+
+
