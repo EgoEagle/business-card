@@ -1,7 +1,7 @@
 {
-  "main.css": "/business-card/static/css/main.afb42c5a.chunk.css",
-  "main.js": "/business-card/static/js/main.7915496a.chunk.js",
-  "main.js.map": "/business-card/static/js/main.7915496a.chunk.js.map",
+  "main.css": "/business-card/static/css/main.a42a705d.chunk.css",
+  "main.js": "/business-card/static/js/main.14d4b4f0.chunk.js",
+  "main.js.map": "/business-card/static/js/main.14d4b4f0.chunk.js.map",
   "static/js/1.03ae7ea8.chunk.js": "/business-card/static/js/1.03ae7ea8.chunk.js",
   "static/js/1.03ae7ea8.chunk.js.map": "/business-card/static/js/1.03ae7ea8.chunk.js.map",
   "static/js/2.c3490619.chunk.js": "/business-card/static/js/2.c3490619.chunk.js",
@@ -10,8 +10,8 @@
   "runtime~main.js.map": "/business-card/static/js/runtime~main.5f4f840c.js.map",
   "static/media/logo.svg": "/business-card/static/media/logo.06e73328.svg",
   "static/media/pic.jpg": "/business-card/static/media/pic.9cd8c58e.jpg",
-  "static/css/main.afb42c5a.chunk.css.map": "/business-card/static/css/main.afb42c5a.chunk.css.map",
+  "static/css/main.a42a705d.chunk.css.map": "/business-card/static/css/main.a42a705d.chunk.css.map",
   "index.html": "/business-card/index.html",
-  "precache-manifest.7e2a4e0d2a378ef4b2b8adad9dd16266.js": "/business-card/precache-manifest.7e2a4e0d2a378ef4b2b8adad9dd16266.js",
+  "precache-manifest.c75ac36de4582dc05e0046728de5c774.js": "/business-card/precache-manifest.c75ac36de4582dc05e0046728de5c774.js",
   "service-worker.js": "/business-card/service-worker.js"
 }
